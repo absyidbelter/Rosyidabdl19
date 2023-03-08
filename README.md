@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rosyidabdl19
+- 👋 Hi, I’m @absyid
 - 👀 I’m interested in frontend dev
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on learning
