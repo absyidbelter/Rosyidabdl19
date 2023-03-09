@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @absyid
-- 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning JS
+- 👋 Hi, I’m @absyidbltr
+- 👀 I’m interested in software development
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me ...
 
